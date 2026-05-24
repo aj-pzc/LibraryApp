@@ -1,0 +1,15 @@
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+dependencyResolutionManagement {
+    repositories{
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'LibraryProjectGradle'
+    include('LibraryApp')
