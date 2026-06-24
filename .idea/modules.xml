@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryApp/LibraryProjectGradle.LibraryApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryApp/LibraryProjectGradle.LibraryApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryApp/LibraryProjectGradle.LibraryApp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryApp/LibraryProjectGradle.LibraryApp.test.iml" />
     </modules>
   </component>
 </project>

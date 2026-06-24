@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6261841c-e6a5-4d8e-a82f-dbb8e05541bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/LibraryApp/LibraryProjectGradle.LibraryApp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.3.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/LibraryApp/LibraryProjectGradle.LibraryApp.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/objects/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/objects/Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/objects/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/objects/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/objects/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/service/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/build/classes/java/main/com/ebac/project/service/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/compileTransaction/stash-dir/Author.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/compileTransaction/stash-dir/Book.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/compileTransaction/stash-dir/Library.class.uniqueId4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/compileTransaction/stash-dir/User.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/objects/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/objects/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/objects/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/objects/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/objects/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/objects/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/service/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryApp/src/main/java/com/ebac/project/service/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000175237" />
+      <entry key="MS500" value="1.0124480390439154" />
+      <entry key="S2" value="1.5407601716763741" />
+      <entry key="S5" value="2.473148347250673" />
+      <entry key="S10" value="3.517265194966021" />
+      <entry key="S30" value="5.793593224319706" />
+      <entry key="S60" value="7.175854304724359" />
+      <entry key="M2" value="8.40469560789218" />
+      <entry key="M5" value="10.049679533062273" />
+      <entry key="M10" value="12.49583128434067" />
+      <entry key="M15" value="15.21666703626997" />
+      <entry key="M30" value="24.632213186449825" />
+      <entry key="H1" value="44.266908076285425" />
+      <entry key="H2" value="72.8056987403123" />
+      <entry key="H4" value="102.72541716877559" />
+      <entry key="D1" value="247.51264101403092" />
+      <entry key="W1" value="511.5977552621075" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.6631052428951753E-163" />
+      <entry key="S10" value="4.0781187364950254E-82" />
+      <entry key="S30" value="7.415719406810237E-28" />
+      <entry key="S60" value="2.7231818534226922E-14" />
+      <entry key="M2" value="1.6502070730006256E-7" />
+      <entry key="M5" value="0.0019471303204064885" />
+      <entry key="M10" value="0.05454045566503803" />
+      <entry key="M15" value="0.2565966772560908" />
+      <entry key="M30" value="2.493386143651429" />
+      <entry key="H1" value="10.980817589520738" />
+      <entry key="H2" value="26.060228854682002" />
+      <entry key="H4" value="43.89850131072127" />
+      <entry key="D1" value="170.34720608637085" />
+      <entry key="W1" value="425.1340294612846" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8066417593674536" />
+      <entry key="MS500" value="0.9699208700585846" />
+      <entry key="S2" value="1.5243744028559398" />
+      <entry key="S5" value="2.4612809174728105" />
+      <entry key="S10" value="3.507942505392272" />
+      <entry key="S30" value="5.787867139180124" />
+      <entry key="S60" value="7.171859306246955" />
+      <entry key="M2" value="8.401784339398182" />
+      <entry key="M5" value="10.049822801878515" />
+      <entry key="M10" value="12.548590307182856" />
+      <entry key="M15" value="15.470695641791318" />
+      <entry key="M30" value="27.120579903820982" />
+      <entry key="H1" value="55.240465741571285" />
+      <entry key="H2" value="98.85850640636838" />
+      <entry key="H4" value="146.61790005180075" />
+      <entry key="D1" value="417.85561130142696" />
+      <entry key="W1" value="936.7303101567376" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FHplyaJqa8sa0FApOr062zOzxy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.AuthorModelTest.executor": "Run",
+    "Gradle.BookModelTest.executor": "Run",
+    "Gradle.LibraryProject [:LibraryApp:com.ebac.project.Main.main()].executor": "Run",
+    "Gradle.LibraryTest.executor": "Run",
+    "Gradle.UserModelTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/matyd/Escritorio/Aldo/JavaProyects/LibraryProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6261841c-e6a5-4d8e-a82f-dbb8e05541bb" name="Changes" comment="" />
+      <created>1781740659391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781740659391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.opentest4j.AssertionFailedError" package="org.opentest4j" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

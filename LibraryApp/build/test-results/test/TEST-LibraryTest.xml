@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-06-24T20:13:59.335Z" hostname="ADMINCCR" time="2.089">
+  <properties/>
+  <testcase name="loanBookTest()" classname="LibraryTest" time="0.673"/>
+  <testcase name="duplicateAddBookExceptionTest()" classname="LibraryTest" time="0.213"/>
+  <testcase name="searchByTitleTest()" classname="LibraryTest" time="0.194"/>
+  <testcase name="duplicateAddUserExceptionTest()" classname="LibraryTest" time="0.177"/>
+  <testcase name="returnBookTest()" classname="LibraryTest" time="0.218"/>
+  <testcase name="removeBookLockedWhenBorrowedTest()" classname="LibraryTest" time="0.209"/>
+  <testcase name="loanBookExceptionTest()" classname="LibraryTest" time="0.19"/>
+  <testcase name="loanBookUnregisteredUserExceptionTest()" classname="LibraryTest" time="0.179"/>
+  <system-out><![CDATA[Usario:
+   apzc
+registrado con exito!
+Libro: 
+   Mockingjay
+guardado con exito!
+Préstamo exitoso de 'Mockingjay' a apzc. (Copias restantes: 1)
+Libro: 
+   The Hunger Games
+guardado con exito!
+Libro: 
+   The Hunger Games
+guardado con exito!
+Libro: 
+   Catching Fire
+guardado con exito!
+Usario:
+   apzc
+registrado con exito!
+Usario:
+   reader3
+registrado con exito!
+Libro: 
+   The Hunger Games
+guardado con exito!
+Préstamo exitoso de 'The Hunger Games' a reader3. (Copias restantes: 4)
+Libro [9780439023528] devuelto con éxito por reader3 e incorporado al inventario.
+Usario:
+   reader4
+registrado con exito!
+Libro: 
+   The Hunger Games
+guardado con exito!
+Préstamo exitoso de 'The Hunger Games' a reader4. (Copias restantes: 0)
+No se puede eliminar 'The Hunger Games'. Hay 1 copias actualmente prestadas.
+Usario:
+   reader2
+registrado con exito!
+Libro: 
+   Out of Stock Book
+guardado con exito!
+Libro: 
+   The Hunger Games
+guardado con exito!
+]]></system-out>
+  <system-err><![CDATA[jun 24, 2026 2:13:59 P.M. com.mongodb.internal.diagnostics.logging.Loggers shouldUseSLF4J
+WARNING: SLF4J not found on the classpath.  Logging is disabled for the 'org.mongodb.driver' component
+]]></system-err>
+</testsuite>
